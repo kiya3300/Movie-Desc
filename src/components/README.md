@@ -1,28 +1,16 @@
-# cE9N3nsw
 
-Quick start:
 
+## Quick start:
+### Development
 ```
-$ yarn # npm install
-$ yarn build # npm run build
-````
-
-## Development
-
 Run Webpack in watch-mode to continually compile the JavaScript as you work:
-
 ```
 $ yarn watch # npm run watch
 ```
+## Project Name
+``` Movie Desc```
+### Wlecome to my portfolio Movie description site! Here, you'll find comprehensive summaries and reviews of movie from around the world. we strive to provide ourreaders withaccurate descriptions that showcase a movie's plot, themes, characters, and more. If ypu're looking for the perfect movie to entertain your family or friends, this is the place for you!
+### About Me
+- [Portfolio](https://kiya3300.github.io/)
 
-## About Scrimba
-
-At Scrimba our goal is to create the best possible coding school at the cost of a gym membership! 💜
-If we succeed with this, it will give anyone who wants to become a software developer a realistic shot at succeeding, regardless of where they live and the size of their wallets 🎉
-The Frontend Developer Career Path aims to teach you everything you need to become a Junior Developer, or you could take a deep-dive with one of our advanced courses 🚀
-
-- [Our courses](https://scrimba.com/allcourses)
-- [The Frontend Career Path](https://scrimba.com/learn/frontend)
-- [Become a Scrimba Pro member](https://scrimba.com/pricing)
-
-Happy Coding!
+## Happy Coding!
